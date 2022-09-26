@@ -1,1 +1,3 @@
+added line 1 in local branch
 added line 2 in local branch
+added line 3 in local branch
